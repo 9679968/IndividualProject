@@ -1,0 +1,21 @@
+//Space defender game
+//By Scott Coller
+//Completed March 22, 2020
+int arate, score, level;
+String levelName;
+
+void setup() {
+  size(700, 700);
+}
+void draw() {
+}
+void gstart(){
+}
+void gpause(){
+}
+void gend(){
+}
+void mousepressed(){
+}
+void keypressed(){
+}
