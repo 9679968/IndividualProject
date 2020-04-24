@@ -1,6 +1,7 @@
 //Space defender game
 //By Scott Coller
 //Completed March 22, 2020
+//runable only in processing
 int arate, score, level;
 String levelName;
 
